@@ -1,0 +1,44 @@
+.title {
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color:khaki;
+    background-image: url(photos/pattern.webp);
+    text-align: center;
+}
+
+.price {
+    font-family: Helvetical;
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+}
+
+.sub1 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+
+.sub2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.sub3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+figcaption {
+    font-weight: bold;
+}
